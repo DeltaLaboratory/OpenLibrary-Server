@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "openlibrary"
+version = "0.1.0"
+description = "Opensource Library Management Program"
+authors = [
+    "DeltaLaboratory <delta@deltalab.dev>"
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+motor = "^2.5.1"
+pydantic = "^1.8.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

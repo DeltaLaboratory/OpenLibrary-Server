@@ -1,0 +1,19 @@
+{
+  "config": "config",
+  "upload": "upload",
+  "save": "save",
+  "library": "library",
+  "author": "author",
+  "writer": "writer",
+  "illustrator": "illustrator",
+  "translator": "translator",
+  "publisher": "publisher",
+  "series": "series",
+  "version": "version",
+  "user": "user",
+  "user_name": "User Name",
+  "user_email": "User Email",
+  "download": "download",
+  "downloads": "downloads",
+  "ratings": "ratings"
+}

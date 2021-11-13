@@ -1,0 +1,19 @@
+{
+  "config": "설정",
+  "upload": "업로드",
+  "save": "저장",
+  "library": "서재",
+  "author": "저자",
+  "writer": "작가",
+  "illustrator": "작화가",
+  "translator": "번역가",
+  "publisher": "출판사",
+  "series": "시리즈",
+  "version": "버전",
+  "user": "사용자",
+  "user_name": "사용자 이룸",
+  "user_email": "사용자 이메일",
+  "download": "다운로드",
+  "downloads": "다운로드 횟수",
+  "ratings": "평가"
+}
