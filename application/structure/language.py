@@ -6,5 +6,5 @@ from enum import Enum as _Enum
 
 class Language(_Enum):
 
-    Korean: _typing.Final[str] = "ko_KR"
+    Korean: _typing.Final[str] = "ko-KR"
     English: typing.Final[str] = "en-US"
